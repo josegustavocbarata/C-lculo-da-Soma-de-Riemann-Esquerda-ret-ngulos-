@@ -6,3 +6,16 @@ Instalação: Para utilizar o projeto, é necessário estar instalada alguma ver
 Como usar a soma de Riemann: Dentro da função chamada de 'equacao' está a f(x) que o código irá obedecer, ao lado do 'return' você pode inserir a equação que será calculada, no caso o código segue normalmente o padrão algébrico comum, em que a utilização de parêntesis indica a a "prioridade" de uma soma, subtração e etc; 
 
 Por exemplo: "return 3*x**2 + (x-2)*2 - 5" (irá retornar uma equação: 3 que multiplica X elevado a 2, adionado a 2 que multiplica (X-2), que é subtraído por 5).
+
+Regras para seguir ao escrever a equação dentro da função 'equacao', ou qualquer outra que você queira utilizar dentro desse código:
+
+- se quiser utilizar log em uma base n: math.log (x, n)
+- se quiser utilizar log na base 10: math.log10 (x) 
+- se quiser utilizar exponenciação usar: numero**expoente, ex.: 10**2 (10 elevado a 2)
+- se quiser utilizar raiz: raiz (numero, base da raiz)
+- funções trigonometricas em radianos: math.sin (numero), math.cos (numero), math.tan (numero)
+- OBS: cálculo padrão feito em radianos.
+- cosec (numero), sec (numero), cotg (numero)
+- OBS: a função obedece a mesma notação matematica tradicional (utilização de parentesis, no caso)
+- OBS: colocar em fracao somente se houver a variável X nela, se for uma const. sobre outra, colocar resultado aprox.
+- Para utilizar pi, use 'math.pi', para utilizar e, use 'math.e'.
