@@ -5,4 +5,4 @@ Instalação: Para utilizar o projeto, é necessário estar instalado alguma ver
 
 Como usar a soma de Riemann: Dentro da função chamada de 'equacao' está a f(x) que o código irá obedecer, ao lado do 'return' você pode inserir a equação que será calculada, no caso o código segue normalmente o padrão algébrico comum, em que a utilização de parêntesis indica a a "prioridade" de uma soma, subtração e etc; 
 
-Por exemplo: "return 3*x**2 + (x-2)*2 - 5" (irá retornar uma equação: 3 que multiplica X elevado a 2, adionado a (X-2) multiplicado a 2 que subtrai 5).  
+Por exemplo: "return 3*x**2 + (x-2)*2 - 5" (irá retornar uma equação: 3 que multiplica X elevado a 2, adionado a (X-2) multiplicado por 2 que é subtraído por 5).
