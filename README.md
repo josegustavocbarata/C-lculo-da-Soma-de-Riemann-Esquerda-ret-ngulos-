@@ -9,7 +9,7 @@ Por exemplo: "return 3*x**2 + (x-2)*2 - 5" (irá retornar uma equação: 3 que m
 
 Regras para seguir ao escrever a equação dentro da função 'equacao', ou qualquer outra que você queira utilizar dentro desse código:
 
-- o código utiliza a variável como x (minúsculo)
+- o código utiliza como variável o 'x' (minúsculo)
 - se quiser utilizar log em uma base n: math.log (x, n)
 - se quiser utilizar log na base 10: math.log10 (x) 
 - se quiser utilizar exponenciação usar: numero**expoente, ex.: 10**2 (10 elevado a 2)
