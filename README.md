@@ -16,5 +16,5 @@ Regras para seguir ao escrever a equação dentro da função 'equacao', ou qual
 - se quiser utilizar raiz: raiz (numero, base da raiz)
 - funções trigonometricas em radianos: math.sin (numero), math.cos (numero), math.tan (numero)
 - funções hiperbólicas trigonometricas em radianos: math.asin (numero), math.acos (numero), math.atan (numero)
-- OBS: caso utilize uma fracao, coloque parêntesis para evitar quaisquer erros de interpretação da equação, ou se você utilizar uma constante sobre a outra, opte por utilizar o resultado dela direto no código 
+- OBS: caso utilize uma fracao, coloque parêntesis para evitar quaisquer erros de interpretação da equação, ou se você utilizar uma constante sobre a outra, opte por utilizar o resultado dela diretamente no código 
 - Para utilizar pi, use 'math.pi', para utilizar e, use 'math.e'.
