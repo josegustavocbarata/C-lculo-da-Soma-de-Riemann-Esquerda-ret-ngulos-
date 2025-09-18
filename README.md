@@ -12,7 +12,7 @@ Regras para seguir ao escrever a equação dentro da função 'equacao', ou qual
 - o código utiliza como variável o 'x' (minúsculo)
 - se quiser utilizar log em uma base n: math.log (x, n)
 - se quiser utilizar log na base 10: math.log10 (x) 
-- se quiser utilizar exponenciação usar: numero**expoente, ex.: 10**2 (10 elevado a 2)
+- se quiser utilizar exponenciação usar: numero ** expoente, ex.: 10 ** 2 (10 elevado a 2)
 - se quiser utilizar raiz: raiz (numero, base da raiz)
 - funções trigonometricas em radianos: math.sin (numero), math.cos (numero), math.tan (numero)
 - funções hiperbólicas trigonometricas em radianos: math.asin (numero), math.acos (numero), math.atan (numero)
